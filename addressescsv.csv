@@ -1,238 +1,175 @@
-IP地址	端口	回源端口	TLS	数据中心	地区	城市	TCP延迟(ms)	速度(MB/s)
-155.248.181.4	2052	2052	false	NRT	Asia Pacific	Tokyo	85	11.95
-131.186.47.255	2052	2052	false	NRT	Asia Pacific	Tokyo	88	11.94
-140.238.34.208	2052	2052	false	NRT	Asia Pacific	Tokyo	69	11.93
-141.147.174.7	2082	2082	false	NRT	Asia Pacific	Tokyo	76	11.93
-141.147.165.179	8080	8080	false	NRT	Asia Pacific	Tokyo	77	11.93
-132.145.121.34	8080	8080	false	NRT	Asia Pacific	Tokyo	95	11.91
-141.147.186.210	2086	2086	false	NRT	Asia Pacific	Tokyo	77	11.90
-151.145.64.170	2087	2087	true	NRT	Asia Pacific	Tokyo	224	11.90
-141.147.167.40	8880	8880	false	NRT	Asia Pacific	Tokyo	85	11.89
-140.238.41.253	2086	2086	false	NRT	Asia Pacific	Tokyo	85	11.89
-155.248.176.98	2053	2053	true	NRT	Asia Pacific	Tokyo	111	11.89
-141.147.52.228	443	443	true	AMS	Europe	Amsterdam	191	11.87
-152.70.106.13	2082	2082	false	NRT	Asia Pacific	Tokyo	86	11.87
-155.248.167.70	80	80	false	NRT	Asia Pacific	Tokyo	85	11.87
-132.145.120.182	8880	8880	false	NRT	Asia Pacific	Tokyo	71	11.87
-150.230.201.39	2082	2082	false	NRT	Asia Pacific	Tokyo	81	11.86
-158.101.140.255	2083	2083	true	NRT	Asia Pacific	Tokyo	83	11.84
-131.186.59.94	2095	2095	false	NRT	Asia Pacific	Tokyo	88	11.84
-158.101.205.146	443	443	true	FRA	Europe	Frankfurt	207	11.83
-168.138.196.237	2086	2086	false	NRT	Asia Pacific	Tokyo	71	11.83
-150.230.214.218	8880	8880	false	NRT	Asia Pacific	Tokyo	83	11.83
-141.147.179.64	2086	2086	false	NRT	Asia Pacific	Tokyo	80	11.83
-131.186.61.45	8880	8880	false	NRT	Asia Pacific	Tokyo	82	11.83
-140.238.54.166	2096	2096	true	NRT	Asia Pacific	Tokyo	156	11.82
-131.186.37.191	2082	2082	false	NRT	Asia Pacific	Tokyo	77	11.82
-152.67.135.145	443	443	true	FRA	Europe	Frankfurt	177	11.82
-84.235.167.127	443	443	true	FRA	Europe	Frankfurt	179	11.81
-140.238.32.238	2052	2052	false	NRT	Asia Pacific	Tokyo	83	11.81
-89.168.64.227	443	443	true	FRA	Europe	Frankfurt	169	11.80
-131.186.37.49	80	80	false	NRT	Asia Pacific	Tokyo	87	11.80
-168.138.209.244	80	80	false	NRT	Asia Pacific	Tokyo	85	11.80
-140.238.48.97	2086	2086	false	NRT	Asia Pacific	Tokyo	74	11.79
-141.147.191.211	8080	8080	false	NRT	Asia Pacific	Tokyo	86	11.79
-130.61.11.98	443	443	true	AMS	Europe	Amsterdam	169	11.79
-151.145.70.28	8080	8080	false	NRT	Asia Pacific	Tokyo	89	11.78
-132.145.121.247	2096	2096	true	NRT	Asia Pacific	Tokyo	107	11.78
-151.145.68.166	2096	2096	true	NRT	Asia Pacific	Tokyo	176	11.78
-141.147.191.211	2096	2096	true	NRT	Asia Pacific	Tokyo	170	11.77
-131.186.61.45	80	80	false	NRT	Asia Pacific	Tokyo	84	11.77
-131.186.37.69	2095	2095	false	NRT	Asia Pacific	Tokyo	74	11.77
-168.138.200.159	2086	2086	false	NRT	Asia Pacific	Tokyo	75	11.77
-131.186.37.49	8080	8080	false	NRT	Asia Pacific	Tokyo	76	11.76
-150.230.204.117	80	80	false	NRT	Asia Pacific	Tokyo	90	11.76
-141.147.167.44	2087	2087	true	NRT	Asia Pacific	Tokyo	88	11.76
-150.230.207.53	2095	2095	false	NRT	Asia Pacific	Tokyo	77	11.75
-132.226.5.102	8880	8880	false	NRT	Asia Pacific	Tokyo	68	11.75
-152.70.185.19	443	443	true	AMS	Europe	Amsterdam	171	11.75
-141.147.174.190	2086	2086	false	NRT	Asia Pacific	Tokyo	77	11.74
-140.238.54.182	8080	8080	false	NRT	Asia Pacific	Tokyo	80	11.74
-132.145.114.14	2095	2095	false	NRT	Asia Pacific	Tokyo	82	11.73
-131.186.39.42	2086	2086	false	NRT	Asia Pacific	Tokyo	86	11.73
-131.186.41.255	2083	2083	true	NRT	Asia Pacific	Tokyo	112	11.73
-141.147.191.211	2053	2053	true	NRT	Asia Pacific	Tokyo	113	11.71
-140.238.32.238	80	80	false	NRT	Asia Pacific	Tokyo	84	11.71
-132.145.120.182	2052	2052	false	NRT	Asia Pacific	Tokyo	85	11.71
-141.147.169.131	8080	8080	false	NRT	Asia Pacific	Tokyo	70	11.71
-141.147.174.190	2053	2053	true	NRT	Asia Pacific	Tokyo	107	11.70
-158.178.148.142	443	443	true	FRA	Europe	Frankfurt	157	11.70
-168.138.209.84	2086	2086	false	NRT	Asia Pacific	Tokyo	94	11.70
-140.238.33.94	2053	2053	true	NRT	Asia Pacific	Tokyo	125	11.70
-144.24.187.47	443	443	true	FRA	Europe	Frankfurt	183	11.70
-132.145.120.118	2082	2082	false	NRT	Asia Pacific	Tokyo	89	11.69
-155.248.165.169	2095	2095	false	NRT	Asia Pacific	Tokyo	78	11.69
-168.138.205.195	2082	2082	false	NRT	Asia Pacific	Tokyo	71	11.69
-158.101.136.239	8880	8880	false	NRT	Asia Pacific	Tokyo	87	11.69
-131.186.37.49	2086	2086	false	NRT	Asia Pacific	Tokyo	74	11.68
-158.179.186.138	2096	2096	true	NRT	Asia Pacific	Tokyo	70	11.68
-140.238.35.78	2096	2096	true	NRT	Asia Pacific	Tokyo	105	11.67
-158.101.139.42	8443	8443	true	NRT	Asia Pacific	Tokyo	90	11.67
-155.248.162.160	2053	2053	true	NRT	Asia Pacific	Tokyo	83	11.67
-151.145.75.28	2087	2087	true	NRT	Asia Pacific	Tokyo	84	11.66
-150.230.212.9	8880	8880	false	NRT	Asia Pacific	Tokyo	73	11.66
-132.145.112.247	80	80	false	NRT	Asia Pacific	Tokyo	83	11.65
-131.186.41.82	2082	2082	false	NRT	Asia Pacific	Tokyo	72	11.65
-140.238.53.190	8080	8080	false	NRT	Asia Pacific	Tokyo	77	11.65
-131.186.63.35	2052	2052	false	NRT	Asia Pacific	Tokyo	89	11.65
-168.138.208.17	80	80	false	NRT	Asia Pacific	Tokyo	88	11.65
-155.248.176.28	2083	2083	true	NRT	Asia Pacific	Tokyo	86	11.64
-132.226.14.155	2082	2082	false	NRT	Asia Pacific	Tokyo	80	11.64
-152.70.111.251	2095	2095	false	NRT	Asia Pacific	Tokyo	81	11.62
-141.147.191.132	2053	2053	true	NRT	Asia Pacific	Tokyo	77	11.62
-155.248.160.83	8080	8080	false	NRT	Asia Pacific	Tokyo	75	11.62
-155.248.178.235	2082	2082	false	NRT	Asia Pacific	Tokyo	71	11.62
-158.179.189.235	2087	2087	true	NRT	Asia Pacific	Tokyo	85	11.61
-131.186.39.42	80	80	false	NRT	Asia Pacific	Tokyo	84	11.61
-132.145.126.204	8880	8880	false	NRT	Asia Pacific	Tokyo	79	11.60
-151.145.71.40	2087	2087	true	NRT	Asia Pacific	Tokyo	78	11.60
-155.248.180.103	2086	2086	false	NRT	Asia Pacific	Tokyo	84	11.60
-150.230.105.179	8443	8443	true	NRT	Asia Pacific	Tokyo	147	11.59
-168.138.211.217	2095	2095	false	NRT	Asia Pacific	Tokyo	76	11.59
-155.248.176.28	2052	2052	false	NRT	Asia Pacific	Tokyo	83	11.58
-141.147.189.242	2096	2096	true	NRT	Asia Pacific	Tokyo	165	11.58
-155.248.176.98	2086	2086	false	NRT	Asia Pacific	Tokyo	94	11.57
-132.145.121.175	8880	8880	false	NRT	Asia Pacific	Tokyo	84	11.57
-140.238.40.136	8080	8080	false	NRT	Asia Pacific	Tokyo	71	11.57
-155.248.181.4	2095	2095	false	NRT	Asia Pacific	Tokyo	85	11.56
-132.226.5.102	2052	2052	false	NRT	Asia Pacific	Tokyo	87	11.56
-155.248.177.210	2083	2083	true	NRT	Asia Pacific	Tokyo	99	11.56
-158.101.144.189	8443	8443	true	NRT	Asia Pacific	Tokyo	79	11.56
-155.248.181.4	8443	8443	true	NRT	Asia Pacific	Tokyo	77	11.55
-155.248.168.251	2053	2053	true	NRT	Asia Pacific	Tokyo	68	11.55
-155.248.166.141	80	80	false	NRT	Asia Pacific	Tokyo	80	11.55
-141.147.178.202	2095	2095	false	NRT	Asia Pacific	Tokyo	89	11.55
-158.101.143.49	2082	2082	false	NRT	Asia Pacific	Tokyo	90	11.54
-158.179.186.138	2087	2087	true	NRT	Asia Pacific	Tokyo	82	11.53
-141.147.189.23	2087	2087	true	NRT	Asia Pacific	Tokyo	241	11.53
-131.186.35.189	2052	2052	false	NRT	Asia Pacific	Tokyo	72	11.53
-158.179.189.235	2095	2095	false	NRT	Asia Pacific	Tokyo	75	11.52
-150.230.208.113	80	80	false	NRT	Asia Pacific	Tokyo	71	11.52
-158.101.142.103	8443	8443	true	NRT	Asia Pacific	Tokyo	94	11.51
-140.238.61.78	2053	2053	true	NRT	Asia Pacific	Tokyo	176	11.51
-131.186.47.223	2083	2083	true	NRT	Asia Pacific	Tokyo	93	11.51
-131.186.44.38	8880	8880	false	NRT	Asia Pacific	Tokyo	72	11.50
-140.238.54.166	2086	2086	false	NRT	Asia Pacific	Tokyo	82	11.50
-131.186.43.107	2095	2095	false	NRT	Asia Pacific	Tokyo	74	11.50
-158.101.206.70	2053	443	true	AMS	Europe	Amsterdam	195	11.49
-141.147.179.64	2053	2053	true	NRT	Asia Pacific	Tokyo	90	11.49
-140.238.33.165	2053	2053	true	NRT	Asia Pacific	Tokyo	150	11.49
-155.248.176.68	2053	2053	true	NRT	Asia Pacific	Tokyo	95	11.49
-152.70.103.145	2086	2086	false	NRT	Asia Pacific	Tokyo	79	11.48
-151.145.71.127	2087	2087	true	NRT	Asia Pacific	Tokyo	81	11.47
-152.70.99.187	80	80	false	NRT	Asia Pacific	Tokyo	90	11.46
-140.238.35.138	2095	2095	false	NRT	Asia Pacific	Tokyo	80	11.46
-144.21.32.193	2053	443	true	AMS	Europe	Amsterdam	178	11.46
-140.238.50.99	2087	2087	true	NRT	Asia Pacific	Tokyo	118	11.45
-141.147.165.179	2086	2086	false	NRT	Asia Pacific	Tokyo	72	11.43
-141.147.160.221	2052	2052	false	NRT	Asia Pacific	Tokyo	75	11.42
-155.248.167.70	2095	2095	false	NRT	Asia Pacific	Tokyo	75	11.42
-132.145.114.4	2052	2052	false	NRT	Asia Pacific	Tokyo	76	11.42
-140.238.52.81	2086	2086	false	NRT	Asia Pacific	Tokyo	105	11.41
-140.238.54.149	80	80	false	NRT	Asia Pacific	Tokyo	93	11.41
-151.145.65.203	8080	8080	false	NRT	Asia Pacific	Tokyo	80	11.40
-132.145.114.4	2095	2095	false	NRT	Asia Pacific	Tokyo	83	11.40
-140.238.52.141	2096	2096	true	NRT	Asia Pacific	Tokyo	128	11.40
-141.147.61.116	8443	443	true	FRA	Europe	Frankfurt	183	11.40
-132.145.120.197	2095	2095	false	NRT	Asia Pacific	Tokyo	74	11.39
-132.145.117.216	8880	8880	false	NRT	Asia Pacific	Tokyo	72	11.39
-140.238.50.99	8080	8080	false	NRT	Asia Pacific	Tokyo	73	11.39
-131.186.63.127	2052	2052	false	NRT	Asia Pacific	Tokyo	69	11.39
-158.179.186.138	2086	2086	false	NRT	Asia Pacific	Tokyo	83	11.38
-141.147.166.189	2095	2095	false	NRT	Asia Pacific	Tokyo	86	11.38
-131.186.63.184	8080	8080	false	NRT	Asia Pacific	Tokyo	84	11.38
-152.70.106.21	8080	8080	false	NRT	Asia Pacific	Tokyo	79	11.38
-158.179.186.234	2096	2096	true	NRT	Asia Pacific	Tokyo	86	11.37
-155.248.176.28	8880	8880	false	NRT	Asia Pacific	Tokyo	84	11.37
-155.248.182.244	80	80	false	NRT	Asia Pacific	Tokyo	80	11.36
-152.70.104.69	2053	2053	true	NRT	Asia Pacific	Tokyo	100	11.36
-140.238.40.136	2087	2087	true	NRT	Asia Pacific	Tokyo	136	11.34
-138.2.153.74	443	443	true	AMS	Europe	Amsterdam	166	11.33
-141.147.183.96	2083	2083	true	NRT	Asia Pacific	Tokyo	90	11.33
-130.162.59.64	443	443	true	FRA	Europe	Frankfurt	170	11.33
-141.144.243.104	443	443	true	FRA	Europe	Frankfurt	175	11.32
-155.248.185.38	2096	2096	true	NRT	Asia Pacific	Tokyo	68	11.32
-168.138.215.188	8880	8880	false	NRT	Asia Pacific	Tokyo	69	11.31
-140.238.54.184	8880	8880	false	NRT	Asia Pacific	Tokyo	73	11.31
-132.145.123.112	2052	2052	false	NRT	Asia Pacific	Tokyo	83	11.31
-151.145.70.28	8443	8443	true	NRT	Asia Pacific	Tokyo	114	11.30
-131.186.62.26	2082	2082	false	NRT	Asia Pacific	Tokyo	84	11.30
-130.162.217.173	443	443	true	FRA	Europe	Frankfurt	152	11.29
-130.162.54.46	443	443	true	FRA	Europe	Frankfurt	176	11.28
-155.248.180.103	2096	2096	true	NRT	Asia Pacific	Tokyo	96	11.28
-131.186.41.82	2086	2086	false	NRT	Asia Pacific	Tokyo	71	11.28
-141.147.175.230	2086	2086	false	NRT	Asia Pacific	Tokyo	90	11.27
-151.145.71.127	2052	2052	false	NRT	Asia Pacific	Tokyo	69	11.27
-141.144.252.189	443	443	true	FRA	Europe	Frankfurt	166	11.26
-130.61.87.219	443	443	true	FRA	Europe	Frankfurt	174	11.25
-141.147.181.242	2082	2082	false	NRT	Asia Pacific	Tokyo	84	11.25
-131.186.41.255	2095	2095	false	NRT	Asia Pacific	Tokyo	81	11.24
-140.238.50.32	2053	2053	true	NRT	Asia Pacific	Tokyo	145	11.23
-130.162.46.135	443	443	true	FRA	Europe	Frankfurt	173	11.23
-144.24.184.102	443	443	true	FRA	Europe	Frankfurt	153	11.23
-131.186.46.75	8880	8880	false	NRT	Asia Pacific	Tokyo	84	11.21
-158.101.210.186	443	443	true	FRA	Europe	Frankfurt	173	11.21
-150.230.207.53	80	80	false	NRT	Asia Pacific	Tokyo	94	11.21
-132.226.9.173	2082	2082	false	NRT	Asia Pacific	Tokyo	68	11.20
-141.147.189.242	2095	2095	false	NRT	Asia Pacific	Tokyo	70	11.20
-141.147.160.221	8443	8443	true	NRT	Asia Pacific	Tokyo	91	11.19
-150.230.202.232	2095	2095	false	NRT	Asia Pacific	Tokyo	79	11.19
-150.230.208.83	2082	2082	false	NRT	Asia Pacific	Tokyo	84	11.19
-140.238.36.216	8080	8080	false	NRT	Asia Pacific	Tokyo	84	11.19
-140.238.39.33	2082	2082	false	NRT	Asia Pacific	Tokyo	67	11.19
-140.238.35.138	2086	2086	false	NRT	Asia Pacific	Tokyo	82	11.19
-152.70.104.69	2082	2082	false	NRT	Asia Pacific	Tokyo	68	11.18
-132.145.121.34	2086	2086	false	NRT	Asia Pacific	Tokyo	68	11.18
-158.179.189.235	8880	8880	false	NRT	Asia Pacific	Tokyo	69	11.18
-168.138.212.74	2053	2053	true	NRT	Asia Pacific	Tokyo	182	11.17
-131.186.38.135	2086	2086	false	NRT	Asia Pacific	Tokyo	80	11.17
-141.147.38.141	443	443	true	FRA	Europe	Frankfurt	174	11.17
-151.145.71.40	2082	2082	false	NRT	Asia Pacific	Tokyo	69	11.17
-131.186.46.75	2083	2083	true	NRT	Asia Pacific	Tokyo	131	11.16
-144.24.85.158	80	80	false	ICN	Asia Pacific	Seoul	67	11.16
-129.146.46.164	443	443	true	LAX	North America	Los Angeles	228	11.16
-131.186.47.255	80	80	false	NRT	Asia Pacific	Tokyo	76	11.16
-131.186.34.244	2095	2095	false	NRT	Asia Pacific	Tokyo	94	11.16
-141.148.232.189	443	443	true	AMS	Europe	Amsterdam	176	11.15
-140.238.60.71	2087	2087	true	NRT	Asia Pacific	Tokyo	139	11.15
-151.145.68.166	8880	8880	false	NRT	Asia Pacific	Tokyo	100	11.15
-158.101.142.103	2096	2096	true	NRT	Asia Pacific	Tokyo	81	11.15
-168.138.206.236	2053	2053	true	NRT	Asia Pacific	Tokyo	161	11.15
-130.162.184.25	443	443	true	FRA	Europe	Frankfurt	175	11.15
-140.238.52.81	8880	8880	false	NRT	Asia Pacific	Tokyo	75	11.14
-144.21.38.203	443	443	true	FRA	Europe	Frankfurt	169	11.14
-140.238.39.33	2095	2095	false	NRT	Asia Pacific	Tokyo	73	11.14
-132.145.126.21	2082	2082	false	NRT	Asia Pacific	Tokyo	87	11.13
-140.238.60.71	2096	2096	true	NRT	Asia Pacific	Tokyo	201	11.13
-143.47.251.254	443	443	true	FRA	Europe	Frankfurt	164	11.13
-155.248.176.28	2053	2053	true	NRT	Asia Pacific	Tokyo	89	11.13
-140.238.48.97	8880	8880	false	NRT	Asia Pacific	Tokyo	76	11.11
-84.235.163.217	443	443	true	AMS	Europe	Amsterdam	185	11.11
-158.101.136.239	80	80	false	NRT	Asia Pacific	Tokyo	81	11.11
-141.147.191.211	2086	2086	false	NRT	Asia Pacific	Tokyo	99	11.10
-155.248.169.25	8443	8443	true	NRT	Asia Pacific	Tokyo	82	11.10
-158.179.189.235	8443	8443	true	NRT	Asia Pacific	Tokyo	86	11.10
-141.147.186.210	2052	2052	false	NRT	Asia Pacific	Tokyo	86	11.10
-152.70.106.195	2082	2082	false	NRT	Asia Pacific	Tokyo	77	11.10
-141.147.178.115	2053	2053	true	NRT	Asia Pacific	Tokyo	123	11.09
-130.162.58.148	443	443	true	FRA	Europe	Frankfurt	166	11.08
-158.101.133.129	2095	2095	false	NRT	Asia Pacific	Tokyo	88	11.08
-130.162.217.61	443	443	true	FRA	Europe	Frankfurt	167	11.07
-132.145.121.175	80	80	false	NRT	Asia Pacific	Tokyo	76	11.06
-131.186.43.107	2052	2052	false	NRT	Asia Pacific	Tokyo	92	11.05
-132.145.123.238	2053	2053	true	NRT	Asia Pacific	Tokyo	94	11.05
-151.145.71.127	2096	2096	true	NRT	Asia Pacific	Tokyo	76	11.05
-168.138.212.40	2086	2086	false	NRT	Asia Pacific	Tokyo	77	11.04
-155.248.179.132	2086	2086	false	NRT	Asia Pacific	Tokyo	88	11.03
-155.248.177.210	8443	8443	true	NRT	Asia Pacific	Tokyo	84	11.03
-158.101.131.218	2087	2087	true	NRT	Asia Pacific	Tokyo	77	11.03
-141.147.160.221	8880	8880	false	NRT	Asia Pacific	Tokyo	73	11.03
-140.238.54.149	8080	8080	false	NRT	Asia Pacific	Tokyo	76	11.03
-131.186.37.191	8880	8880	false	NRT	Asia Pacific	Tokyo	76	11.03
-168.138.197.222	80	80	false	NRT	Asia Pacific	Tokyo	76	11.03
-141.147.164.123	2087	2087	true	NRT	Asia Pacific	Tokyo	72	11.02
-141.147.162.204	2087	2087	true	NRT	Asia Pacific	Tokyo	95	11.02
-155.248.179.132	2096	2096	true	NRT	Asia Pacific	Tokyo	83	11.02
-141.148.226.108	443	443	true	FRA	Europe	Frankfurt	159	11.01
-141.147.7.26	443	443	true	FRA	Europe	Frankfurt	170	11.00
-131.186.34.244	2053	2053	true	NRT	Asia Pacific	Tokyo	140	11.00
+IP地址		端口	回源端口	TLS	数据中心	地区	城市	TCP延迟(ms)	速度(MB/s)
+8.219.151.193	:	2096	2096	TRUE	SIN	Asia Pacific	Singapore	82	12.26
+8.219.86.200	:	8443	8443	TRUE	SIN	Asia Pacific	Singapore	36	12.26
+8.219.175.127	:	2083	2083	TRUE	SIN	Asia Pacific	Singapore	107	12.25
+8.219.233.6	:	2087	2087	TRUE	HKG	Asia Pacific	Hong Kong	182	12.25
+8.219.236.8	:	8443	8443	TRUE	SIN	Asia Pacific	Singapore	98	12.25
+8.219.185.191	:	2096	2096	TRUE	SIN	Asia Pacific	Singapore	48	12.24
+47.236.150.109	:	2083	2083	TRUE	SIN	Asia Pacific	Singapore	71	12.24
+8.219.92.89	:	8443	8443	TRUE	SIN	Asia Pacific	Singapore	87	12.24
+47.74.13.66	:	2053	2053	TRUE	NRT	Asia Pacific	Tokyo	95	12.23
+8.219.193.22	:	2087	2087	TRUE	SIN	Asia Pacific	Singapore	115	12.23
+47.236.103.153	:	2096	2096	TRUE	SIN	Asia Pacific	Singapore	155	12.22
+8.219.82.177	:	8443	8443	TRUE	HKG	Asia Pacific	Hong Kong	192	12.22
+47.245.84.155	:	8443	8443	TRUE	SIN	Asia Pacific	Singapore	80	12.22
+47.91.22.115	:	2083	2083	TRUE	NRT	Asia Pacific	Tokyo	85	12.22
+47.74.20.143	:	2083	2083	TRUE	NRT	Asia Pacific	Tokyo	165	12.21
+8.219.122.55	:	8443	8443	TRUE	SIN	Asia Pacific	Singapore	129	12.21
+8.222.221.109	:	2083	2083	TRUE	SIN	Asia Pacific	Singapore	26	12.21
+8.219.228.186	:	443	443	TRUE	SIN	Asia Pacific	Singapore	111	12.2
+8.210.107.246	:	2087	2087	TRUE	HKG	Asia Pacific	Hong Kong	89	12.2
+8.219.253.18	:	2083	2083	TRUE	SIN	Asia Pacific	Singapore	38	12.19
+8.219.50.180	:	2053	2053	TRUE	SIN	Asia Pacific	Singapore	3	12.19
+47.91.2.5	:	2083	2083	TRUE	NRT	Asia Pacific	Tokyo	83	12.19
+8.219.208.69	:	2083	2083	TRUE	SIN	Asia Pacific	Singapore	143	12.19
+8.219.111.175	:	443	443	TRUE	SIN	Asia Pacific	Singapore	144	12.19
+8.219.201.245	:	2087	2087	TRUE	SIN	Asia Pacific	Singapore	215	12.17
+8.219.142.191	:	2083	2083	TRUE	SIN	Asia Pacific	Singapore	90	12.15
+8.219.194.170	:	2083	2083	TRUE	SIN	Asia Pacific	Singapore	114	12.15
+8.219.114.201	:	2053	2053	TRUE	SIN	Asia Pacific	Singapore	81	12.15
+8.219.115.215	:	2087	2087	TRUE	SIN	Asia Pacific	Singapore	74	12.15
+47.245.113.12	:	2096	2096	TRUE	SIN	Asia Pacific	Singapore	62	12.14
+8.219.134.117	:	2083	2083	TRUE	SIN	Asia Pacific	Singapore	121	12.14
+8.219.137.50	:	443	443	TRUE	SIN	Asia Pacific	Singapore	55	12.13
+8.219.175.127		2083	2083	TRUE	HKG	Asia Pacific	Hong Kong	70	12.13
+8.222.214.231		2083	2083	TRUE	SIN	Asia Pacific	Singapore	100	12.13
+47.74.38.250		2053	2053	TRUE	NRT	Asia Pacific	Tokyo	105	12.13
+8.219.97.179		443	443	TRUE	SIN	Asia Pacific	Singapore	125	12.12
+47.74.19.68		8443	8443	TRUE	NRT	Asia Pacific	Tokyo	170	12.12
+47.245.11.62		2053	2053	TRUE	NRT	Asia Pacific	Tokyo	108	12.12
+8.219.56.205		2087	2087	TRUE	SIN	Asia Pacific	Singapore	77	12.11
+8.219.178.101		8443	8443	TRUE	SIN	Asia Pacific	Singapore	103	12.11
+8.219.99.169		2087	2087	TRUE	SIN	Asia Pacific	Singapore	117	12.11
+8.219.84.214		443	443	TRUE	SIN	Asia Pacific	Singapore	91	12.11
+8.219.170.223		2053	2053	TRUE	SIN	Asia Pacific	Singapore	198	12.11
+8.209.243.137		2053	2053	TRUE	NRT	Asia Pacific	Tokyo	97	12.1
+47.236.176.144		2083	2083	TRUE	SIN	Asia Pacific	Singapore	74	12.1
+47.74.14.85		2083	2083	TRUE	NRT	Asia Pacific	Tokyo	297	12.1
+47.74.43.95		2053	2053	TRUE	NRT	Asia Pacific	Tokyo	111	12.1
+47.74.36.154		2083	2083	TRUE	NRT	Asia Pacific	Tokyo	85	12.09
+47.236.21.51		2087	2087	TRUE	SIN	Asia Pacific	Singapore	72	12.09
+8.219.61.52		2053	2053	TRUE	SIN	Asia Pacific	Singapore	181	12.09
+47.245.15.39		8443	8443	TRUE	NRT	Asia Pacific	Tokyo	88	12.09
+8.219.249.148		2087	2087	TRUE	SIN	Asia Pacific	Singapore	83	12.09
+8.219.4.122		443	443	TRUE	HKG	Asia Pacific	Hong Kong	77	12.08
+47.245.12.179		8443	8443	TRUE	NRT	Asia Pacific	Tokyo	133	12.07
+47.91.21.127		2083	2083	TRUE	NRT	Asia Pacific	Tokyo	108	12.07
+8.219.12.152		2053	2053	TRUE	SIN	Asia Pacific	Singapore	105	12.07
+8.222.222.64		2083	2083	TRUE	SIN	Asia Pacific	Singapore	47	12.07
+8.218.143.10		2087	2087	TRUE	HKG	Asia Pacific	Hong Kong	145	12.06
+47.74.13.200		2096	2096	TRUE	NRT	Asia Pacific	Tokyo	161	12.06
+8.219.42.72		2083	2083	TRUE	SIN	Asia Pacific	Singapore	90	12.05
+47.245.10.156		2053	2053	TRUE	NRT	Asia Pacific	Tokyo	119	12.05
+8.219.142.229		2053	2053	TRUE	SIN	Asia Pacific	Singapore	76	12.04
+8.219.237.250		2053	2053	TRUE	SIN	Asia Pacific	Singapore	131	12.04
+8.219.114.201		443	443	TRUE	SIN	Asia Pacific	Singapore	172	12.04
+8.222.240.47		2053	2053	TRUE	SIN	Asia Pacific	Singapore	74	12.03
+8.219.170.232		8443	8443	TRUE	SIN	Asia Pacific	Singapore	159	12.03
+8.219.215.214		443	443	TRUE	SIN	Asia Pacific	Singapore	132	12.03
+47.236.150.13		2087	2087	TRUE	SIN	Asia Pacific	Singapore	92	12.03
+8.219.194.170		2053	2053	TRUE	SIN	Asia Pacific	Singapore	176	12.02
+47.245.32.215		2083	2083	TRUE	NRT	Asia Pacific	Tokyo	88	12.02
+47.74.41.136		2087	2087	TRUE	NRT	Asia Pacific	Tokyo	131	12.02
+8.219.199.220		8443	8443	TRUE	HKG	Asia Pacific	Hong Kong	142	12.01
+47.91.21.127		8443	8443	TRUE	NRT	Asia Pacific	Tokyo	107	12.01
+8.219.228.186		443	443	TRUE	SIN	Asia Pacific	Singapore	75	12
+47.74.4.47		2083	2083	TRUE	NRT	Asia Pacific	Tokyo	177	11.99
+47.74.50.249		8443	8443	TRUE	NRT	Asia Pacific	Tokyo	134	11.99
+8.219.122.96		2087	2087	TRUE	SIN	Asia Pacific	Singapore	57	11.98
+47.74.19.68		8443	8443	TRUE	NRT	Asia Pacific	Tokyo	219	11.97
+47.245.37.37		2096	2096	TRUE	NRT	Asia Pacific	Tokyo	126	11.97
+8.209.222.232		2053	2053	TRUE	HKG	Asia Pacific	Hong Kong	163	11.96
+47.245.108.213		2096	2096	TRUE	SIN	Asia Pacific	Singapore	98	11.96
+47.236.121.7		2083	2083	TRUE	SIN	Asia Pacific	Singapore	89	11.96
+8.218.174.118		2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	70	11.95
+8.222.221.90		2053	2053	TRUE	SIN	Asia Pacific	Singapore	79	11.95
+47.74.36.154		2083	2083	TRUE	NRT	Asia Pacific	Tokyo	80	11.95
+8.209.214.222		8443	8443	TRUE	NRT	Asia Pacific	Tokyo	113	11.95
+8.219.201.174		2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	147	11.95
+47.74.6.16		2096	2096	TRUE	NRT	Asia Pacific	Tokyo	88	11.94
+8.219.107.135		2083	2083	TRUE	SIN	Asia Pacific	Singapore	112	11.93
+47.245.41.84		8443	8443	TRUE	NRT	Asia Pacific	Tokyo	146	11.93
+8.222.222.64		2096	2096	TRUE	SIN	Asia Pacific	Singapore	143	11.93
+47.74.11.219		2053	2053	TRUE	NRT	Asia Pacific	Tokyo	130	11.93
+8.219.99.8		2083	2083	TRUE	SIN	Asia Pacific	Singapore	113	11.92
+8.219.163.195		8443	8443	TRUE	SIN	Asia Pacific	Singapore	89	11.91
+8.219.99.8		443	443	TRUE	SIN	Asia Pacific	Singapore	177	11.89
+8.219.245.187		2096	2096	TRUE	SIN	Asia Pacific	Singapore	115	11.89
+47.91.1.199		2083	2083	TRUE	NRT	Asia Pacific	Tokyo	142	11.88
+8.209.212.5		2083	2083	TRUE	NRT	Asia Pacific	Tokyo	90	11.88
+8.218.105.223		8443	8443	TRUE	HKG	Asia Pacific	Hong Kong	82	11.88
+8.219.104.242		2053	2053	TRUE	SIN	Asia Pacific	Singapore	133	11.88
+47.236.145.85		2053	2053	TRUE	SIN	Asia Pacific	Singapore	114	11.87
+8.219.217.81		2096	2096	TRUE	SIN	Asia Pacific	Singapore	86	11.87
+8.209.242.25		2096	2096	TRUE	NRT	Asia Pacific	Tokyo	135	11.87
+47.245.33.56		2096	2096	TRUE	NRT	Asia Pacific	Tokyo	157	11.87
+47.245.9.228		2096	2096	TRUE	NRT	Asia Pacific	Tokyo	99	11.86
+8.218.126.53		2053	2053	TRUE	HKG	Asia Pacific	Hong Kong	94	11.86
+47.236.65.177		8443	8443	TRUE	SIN	Asia Pacific	Singapore	69	11.86
+8.219.210.226		2053	2053	TRUE	SIN	Asia Pacific	Singapore	114	11.86
+47.245.114.163		2087	2087	TRUE	SIN	Asia Pacific	Singapore	111	11.86
+47.245.84.124		8443	8443	TRUE	SIN	Asia Pacific	Singapore	82	11.85
+47.243.183.127		8443	8443	TRUE	HKG	Asia Pacific	Hong Kong	96	11.85
+47.245.3.137		2087	2087	TRUE	NRT	Asia Pacific	Tokyo	115	11.85
+47.245.56.207		2087	2087	TRUE	NRT	Asia Pacific	Tokyo	151	11.84
+47.74.42.111		2096	2096	TRUE	NRT	Asia Pacific	Tokyo	97	11.84
+8.219.210.64		443	443	TRUE	SIN	Asia Pacific	Singapore	231	11.84
+8.219.174.213		2083	2083	TRUE	SIN	Asia Pacific	Singapore	223	11.83
+8.219.248.170		2053	2053	TRUE	HKG	Asia Pacific	Hong Kong	311	11.83
+8.222.211.124		8443	8443	TRUE	SIN	Asia Pacific	Singapore	76	11.83
+8.219.43.243		2083	2083	TRUE	SIN	Asia Pacific	Singapore	113	11.83
+8.222.254.91		443	443	TRUE	SIN	Asia Pacific	Singapore	103	11.82
+8.219.5.10		443	443	TRUE	SIN	Asia Pacific	Singapore	3	11.82
+47.74.27.151		2087	2087	TRUE	NRT	Asia Pacific	Tokyo	93	11.81
+47.245.15.39		2096	2096	TRUE	NRT	Asia Pacific	Tokyo	128	11.8
+47.74.0.183		2096	2096	TRUE	NRT	Asia Pacific	Tokyo	135	11.8
+8.219.58.64		443	443	TRUE	SIN	Asia Pacific	Singapore	135	11.8
+47.74.0.183		2087	2087	TRUE	NRT	Asia Pacific	Tokyo	109	11.79
+8.219.198.34		2087	2087	TRUE	SIN	Asia Pacific	Singapore	180	11.79
+8.218.136.25		2053	2053	TRUE	HKG	Asia Pacific	Hong Kong	80	11.79
+8.219.40.255		2053	2053	TRUE	SIN	Asia Pacific	Singapore	85	11.79
+8.219.56.205		2053	2053	TRUE	SIN	Asia Pacific	Singapore	20	11.79
+8.219.250.239		2053	2053	TRUE	HKG	Asia Pacific	Hong Kong	164	11.78
+8.219.53.142		2087	0	TRUE	SIN	Asia Pacific	Singapore	3	11.78
+47.91.15.247		2087	2087	TRUE	NRT	Asia Pacific	Tokyo	98	11.77
+8.218.110.180		8443	8443	TRUE	HKG	Asia Pacific	Hong Kong	73	11.76
+47.74.43.95		2087	2087	TRUE	NRT	Asia Pacific	Tokyo	82	11.76
+47.236.123.218		2083	2083	TRUE	SIN	Asia Pacific	Singapore	66	11.76
+47.74.13.94		8443	8443	TRUE	NRT	Asia Pacific	Tokyo	143	11.75
+47.241.209.61		443	443	TRUE	SIN	Asia Pacific	Singapore	103	11.75
+47.74.34.135		2087	2087	TRUE	NRT	Asia Pacific	Tokyo	82	11.74
+8.219.82.35		2053	2053	TRUE	SIN	Asia Pacific	Singapore	83	11.74
+47.236.96.141		2083	2083	TRUE	SIN	Asia Pacific	Singapore	81	11.74
+47.245.14.160		2096	2096	TRUE	NRT	Asia Pacific	Tokyo	128	11.73
+47.236.148.174		2096	2096	TRUE	SIN	Asia Pacific	Singapore	133	11.73
+47.245.10.156		2083	2083	TRUE	NRT	Asia Pacific	Tokyo	87	11.72
+8.219.195.47		443	443	TRUE	SIN	Asia Pacific	Singapore	91	11.72
+8.219.113.27		2053	2053	TRUE	SIN	Asia Pacific	Singapore	157	11.72
+8.219.13.143		443	443	TRUE	SIN	Asia Pacific	Singapore	106	11.72
+47.91.21.149		2096	2096	TRUE	NRT	Asia Pacific	Tokyo	79	11.71
+8.219.193.22		2083	2083	TRUE	SIN	Asia Pacific	Singapore	237	11.71
+47.74.23.99		2053	2053	TRUE	NRT	Asia Pacific	Tokyo	160	11.71
+47.245.40.161		2083	2083	TRUE	NRT	Asia Pacific	Tokyo	123	11.71
+47.236.130.95		443	443	TRUE	SIN	Asia Pacific	Singapore	47	11.7
+47.236.144.196		2087	2087	TRUE	SIN	Asia Pacific	Singapore	22	11.7
+47.74.15.120		2053	2053	TRUE	NRT	Asia Pacific	Tokyo	132	11.7
+47.245.53.101		8443	8443	TRUE	NRT	Asia Pacific	Tokyo	91	11.7
+8.219.101.138		2083	2083	TRUE	SIN	Asia Pacific	Singapore	66	11.69
+8.209.243.137		2096	2096	TRUE	NRT	Asia Pacific	Tokyo	102	11.68
+8.219.107.135		2087	2087	TRUE	SIN	Asia Pacific	Singapore	81	11.67
+8.219.82.35		2096	2096	TRUE	SIN	Asia Pacific	Singapore	53	11.67
+8.218.142.253		2087	2087	TRUE	HKG	Asia Pacific	Hong Kong	59	11.67
+47.74.20.143		8443	8443	TRUE	NRT	Asia Pacific	Tokyo	201	11.67
+8.219.101.138		443	443	TRUE	SIN	Asia Pacific	Singapore	142	11.67
+8.219.73.188		8443	8443	TRUE	SIN	Asia Pacific	Singapore	168	11.66
+47.236.193.208		2083	2083	TRUE	SIN	Asia Pacific	Singapore	134	11.66
+8.219.110.88		2053	2053	TRUE	SIN	Asia Pacific	Singapore	87	11.66
+47.245.41.169		2053	2053	TRUE	NRT	Asia Pacific	Tokyo	170	11.65
+8.219.134.117		2096	2096	TRUE	SIN	Asia Pacific	Singapore	103	11.65
+8.219.186.189		8443	8443	TRUE	SIN	Asia Pacific	Singapore	197	11.64
+8.222.249.98		2096	2096	TRUE	SIN	Asia Pacific	Singapore	82	11.64
+47.74.0.183		2053	2053	TRUE	NRT	Asia Pacific	Tokyo	305	11.63
+47.242.17.250		2087	2087	TRUE	HKG	Asia Pacific	Hong Kong	106	11.62
+47.74.20.143		2087	2087	TRUE	NRT	Asia Pacific	Tokyo	152	11.62
+47.245.54.98		8443	8443	TRUE	NRT	Asia Pacific	Tokyo	102	11.61
+47.245.10.156		2096	2096	TRUE	NRT	Asia Pacific	Tokyo	125	11.6
